@@ -2,8 +2,8 @@
 
 ## I'm QA engineer and I'm studing Full Stark development.
 
-Studing
+### Languages and tools
 
-Languages and tools
+![Git](https://img.shields.io/badge/-<Git>-090909?style=for-the-badge&logo=git&logoColor~47C5FB)
 
 follow me
