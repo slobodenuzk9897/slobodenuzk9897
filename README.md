@@ -1,6 +1,6 @@
 [![Header]https://github.com/slobodenuzk9897/slobodenuzk9897/blob/main/images/photoYevheniia.jpg]()
 
-About me
+## I'm QA engineer and I'm studing Full Stark development.
 
 Studing
 
